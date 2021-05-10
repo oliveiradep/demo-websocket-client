@@ -1,5 +1,5 @@
 # demo-websocket-client
 Demo WebSocket client.
 
-# server
+# Server
 https://www.websocket.org/echo.html
