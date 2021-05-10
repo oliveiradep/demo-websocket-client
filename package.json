@@ -1,0 +1,19 @@
+{
+  "name": "demo-websocket-client",
+  "version": "1.0.0",
+  "description": "Demo WebSocket client.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveiradep/demo-websocket-client.git"
+  },
+  "author": "Paulo de Oliveira Silva.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliveiradep/demo-websocket-client/issues"
+  },
+  "homepage": "https://github.com/oliveiradep/demo-websocket-client#readme"
+}
